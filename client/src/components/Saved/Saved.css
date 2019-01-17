@@ -1,0 +1,9 @@
+.saved {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .saved a, span {
+    width: 300px;
+    color: #373d3f;
+  } 
